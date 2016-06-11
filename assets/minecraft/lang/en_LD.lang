@@ -354,7 +354,7 @@ tile.flower2.oxeyeDaisy.name=home wind generator
 tile.flower2.tulipOrange.name=suspicious pile
 tile.flower2.tulipPink.name=mutated seed pods
 tile.flower2.tulipRed.name=Soviet marker
-tile.flower2.tulipWhite.name= pile of asses
+tile.flower2.tulipWhite.name= Pile of ashes
 tile.anvil.intact.name=R&M station
 tile.anvil.slightlyDamaged.name=Low-on-power R&M staion
 tile.anvil.veryDamaged.name=Depleted R&M station
@@ -372,6 +372,10 @@ item.prismarineShard.name=Submarine parts
 item.shield.name=Scrap shield
 entity.Rabbit.name=Cyborg rabbit
 item.rabbitFoot.name=Cyborg jump amplificator
+item.tipped_arrow.name=Projectile filled with cConcotion of
+item.spectral_arrow.name=Lightbulb-Shrapnel Projectile
+tile.grassPath.name=Beaten Dead Grass
+
 
 
 tile.stone.name=Metal Plating
@@ -574,10 +578,6 @@ tile.stairsNetherBrick.name=Moonlab Stairs
 tile.netherStalk.name=Moonshroom
 tile.cauldron.name=High Pressure Tank
 tile.enchantmentTable.name=T.R.O.N.
-tile.anvil.name=Anvil
-tile.anvil.intact.name=Anvil
-tile.anvil.slightlyDamaged.name=Slightly Damaged Anvil
-tile.anvil.veryDamaged.name=Very Damaged Anvil
 tile.whiteStone.name=Madness Material
 tile.endPortalFrame.name=Realm of Madness Portal
 tile.mycel.name=Funga Plast
