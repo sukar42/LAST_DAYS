@@ -372,9 +372,9 @@ item.prismarineShard.name=Submarine parts
 item.shield.name=Scrap shield
 entity.Rabbit.name=Cyborg rabbit
 item.rabbitFoot.name=Cyborg jump amplificator
-item.tipped_arrow.name=projectile filled with concotion of
-item.spectral_arrow.name=Lightbulb-shrapnel projectile
-
+item.tipped_arrow.name=Projectile filled with cConcotion of
+item.spectral_arrow.name=Lightbulb-Shrapnel Projectile
+tile.grassPath.name=Beaten Dead Grass
 
 
 
