@@ -372,6 +372,10 @@ item.prismarineShard.name=Submarine parts
 item.shield.name=Scrap shield
 entity.Rabbit.name=Cyborg rabbit
 item.rabbitFoot.name=Cyborg jump amplificator
+item.tipped_arrow.name=projectile filled with concotion of
+item.spectral_arrow.name=Lightbulb-shrapnel projectile
+
+
 
 
 tile.stone.name=Metal Plating
