@@ -2,7 +2,7 @@
 gui.cancel=:(Cancel):
 gui.back=:(Back):
 gui.toMenu=:(Return.to.Menu):
-gui.up=;(Up):
+gui.up=:(Up):
 gui.down=:(Down):
 gui.yes=:(Confirm):
 gui.no=:(Deny):
@@ -295,6 +295,96 @@ book.editTitle=Enter Book Title:
 book.finalizeButton=Sign and Close
 book.finalizeWarning=Note! When you sign the book, it will no longer be editable.
 
+
+
+
+lingering_potion.effect.empty=Lingering Uncraftable Potion
+
+
+lingering_potion.effect.water=Lingering Water Bottle
+
+lingering_potion.effect.mundane=Mundane Lingering Potion
+
+lingering_potion.effect.thick=Thick Lingering Potion
+
+lingering_potion.effect.awkward=Awkward Lingering Potion
+
+lingering_potion.effect.night_vision=Lingering Potion of Night Vision
+
+lingering_potion.effect.invisibility=Lingering Potion of Invisibility
+
+lingering_potion.effect.leaping=Lingering Potion of Leaping
+
+lingering_potion.effect.fire_resistance=Lingering Potion of Fire Resistance
+
+lingering_potion.effect.swiftness=Lingering Potion of Swiftness
+
+lingering_potion.effect.slowness=Lingering Potion of Slowness
+lingering_potion.effect.water_breathing=Lingering Potion of Water Breathing
+
+lingering_potion.effect.healing=Lingering Potion of Healing
+
+lingering_potion.effect.harming=Lingering Potion of Harming
+
+lingering_potion.effect.poison=Lingering Potion of Poison
+
+lingering_potion.effect.regeneration=Lingering Potion of Regeneration
+
+lingering_potion.effect.strength=Lingering Potion of Strength
+
+lingering_potion.effect.weakness=Lingering Potion of Weakness
+
+lingering_potion.effect.levitation=Lingering Potion of Levitation
+
+lingering_potion.effect.luck=Lingering Potion of Luck
+
+p
+
+item.dragon_breath.name=Reality Altering Goo
+tipped_arrow.effect.empty=Tipped Arrow
+
+tipped_arrow.effect.water=Tipped Arrow
+
+tipped_arrow.effect.mundane=Tipped Arrow
+
+tipped_arrow.effect.thick=Tipped Arrow
+
+tipped_arrow.effect.awkward=Tipped Arrow
+
+tipped_arrow.effect.night_vision=Arrow of Night Vision
+
+tipped_arrow.effect.invisibility=Arrow of Invisibility
+
+tipped_arrow.effect.leaping=Arrow of Leaping
+
+tipped_arrow.effect.fire_resistance=Arrow of Fire Resistance
+
+tipped_arrow.effect.swiftness=Arrow of Swiftness
+
+tipped_arrow.effect.slowness=Arrow of Slowness
+
+tipped_arrow.effect.water=Arrow of Splashing
+
+tipped_arrow.effect.water_breathing=Arrow of Water Breathing
+
+tipped_arrow.effect.healing=Arrow of Healing
+
+tipped_arrow.effect.harming=Arrow of Harming
+
+tipped_arrow.effect.poison=Arrow of Poison
+
+tipped_arrow.effect.regeneration=Arrow of Regeneration
+
+tipped_arrow.effect.strength=Arrow of Strength
+
+tipped_arrow.effect.weakness=Arrow of Weakness
+
+tipped_arrow.effect.levitation=Arrow of Levitation
+
+tipped_arrow.effect.luck=Arrow of Luck
+
+item.tipped_arrow.name=Embued Arrow
+item.spectral_arrow.name=Tracker Arrow
 item.beetroot_seeds.name=BEE+ Extractor
 item.beetroot_soup.name= Pill soup
 item.chorusFruit.name=Condensed chaos pod
@@ -303,12 +393,12 @@ tile.chorusFlower.name=C.H.R.U.-5
 tile.chorusPlant.name=Condensed chaos trail
 tile.beetroots.name=BEE+
 item.beetroot.name=BEE+ pills
-tile.stone.andesite.name=damaged ventilation duct
-tile.stone.andesiteSmooth.name=hidden ventilation duct
-tile.stone.diorite.name=damaged cable bundle block
-tile.stone.dioriteSmooth.name=sealed cable bundle block
-tile.stone.granite.name=flaky rebar concrete block
-tile.stone.graniteSmooth.name=uncovered rebar concrete block
+tile.stone.andesite.name=Damaged Ventilation Duct
+tile.stone.andesiteSmooth.name=Hidden Ventilation Duct
+tile.stone.diorite.name=Damaged Cable Bundle Block
+tile.stone.dioriteSmooth.name=Sealed Cable bundle block
+tile.stone.granite.name=Flaky Rebar block
+tile.stone.graniteSmooth.name=Rebar block
 tile.wood.acacia.name=Layered metal block
 tile.sapling.acacia.name= Hi-radar In The Box
 tile.stairsWoodAcacia.name=layerd metal steps
@@ -374,7 +464,9 @@ entity.Rabbit.name=Cyborg rabbit
 item.rabbitFoot.name=Cyborg jump amplificator
 
 
+
 tile.stone.name=Metal Plating
+tile.stone.stone.name=Metal Plating
 tile.hayBlock.name=Water Crate
 tile.grass.name=Dead Grass Block
 tile.dirt.name=Dirt
