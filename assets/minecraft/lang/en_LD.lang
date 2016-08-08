@@ -295,6 +295,52 @@ book.editTitle=Enter Book Title:
 book.finalizeButton=Sign and Close
 book.finalizeWarning=Note! When you sign the book, it will no longer be editable.
 
+
+
+
+lingering_potion.effect.empty=Lingering Uncraftable Potion
+
+
+lingering_potion.effect.water=Lingering Water Bottle
+
+lingering_potion.effect.mundane=Mundane Lingering Potion
+
+lingering_potion.effect.thick=Thick Lingering Potion
+
+lingering_potion.effect.awkward=Awkward Lingering Potion
+
+lingering_potion.effect.night_vision=Lingering Potion of Night Vision
+
+lingering_potion.effect.invisibility=Lingering Potion of Invisibility
+
+lingering_potion.effect.leaping=Lingering Potion of Leaping
+
+lingering_potion.effect.fire_resistance=Lingering Potion of Fire Resistance
+
+lingering_potion.effect.swiftness=Lingering Potion of Swiftness
+
+lingering_potion.effect.slowness=Lingering Potion of Slowness
+lingering_potion.effect.water_breathing=Lingering Potion of Water Breathing
+
+lingering_potion.effect.healing=Lingering Potion of Healing
+
+lingering_potion.effect.harming=Lingering Potion of Harming
+
+lingering_potion.effect.poison=Lingering Potion of Poison
+
+lingering_potion.effect.regeneration=Lingering Potion of Regeneration
+
+lingering_potion.effect.strength=Lingering Potion of Strength
+
+lingering_potion.effect.weakness=Lingering Potion of Weakness
+
+lingering_potion.effect.levitation=Lingering Potion of Levitation
+
+lingering_potion.effect.luck=Lingering Potion of Luck
+
+p
+
+item.dragon_breath.name=Reality Altering Goo
 tipped_arrow.effect.empty=Tipped Arrow
 
 tipped_arrow.effect.water=Tipped Arrow
