@@ -2,17 +2,17 @@
 gui.cancel=:(Cancel):
 gui.back=:(Back):
 gui.toMenu=:(Return.to.Menu):
-gui.up=;(Up):
+gui.up=:(Up):
 gui.down=:(Down):
 gui.yes=:(Confirm):
 gui.no=:(Deny):
 
-menu.singleplayer=:(Play_Singleplayer):
-menu.multiplayer=:(Play_Multiplayer):
+menu.singleplayer=:(Play.Singleplayer):
+menu.multiplayer=:(Play.Multiplayer):
 menu.online=:(Multi.Realm):
-menu.options=:(Edit.Settings...):
+menu.options=:(Edit.Settings):
 menu.quit=:(End.Program):
-menu.returnToMenu=:(Save_Return.to.Title):
+menu.returnToMenu=:(Save.Return.to.Title):
 menu.disconnect=:(Disconnect):
 menu.returnToGame=:(Return.to.Game):
 menu.switchingLevel=:(Switching.Worlds):
@@ -20,24 +20,24 @@ menu.generatingLevel=:(Generating.World):
 menu.loadingLevel=:(Loading.World):
 menu.generatingTerrain=:(Building.Terrain):
 menu.convertingLevel=:(Converting.World):
-menu.simulating=:(Simulating.World_Please.Wait...):
-menu.respawning=:(Rebuilding.Character...):
+menu.simulating=:(Simulating.World.Please.Wait):
+menu.respawning=:(Rebuilding.Character):
 menu.shareToLan=:(Open.to.LAN):
 
 selectWorld.title=:(Select.World):
 selectWorld.empty=:(Empty):
 selectWorld.world=:(World):
-selectWorld.select=:(Play_Selected.World)
+selectWorld.select=:(Play.Selected.World)
 selectWorld.create=:(Create):
 selectWorld.recreate=:(Re-Create):
-selectWorld.createDemo=:(Play_Demo.World):)
+selectWorld.createDemo=:(Play.Demo.World):)
 selectWorld.delete=:(Delete):
 selectWorld.rename=:(Rename):
 selectWorld.deleteQuestion=:(Delete.Selected.World.?):
 selectWorld.deleteWarning=:(Will.be.gost.Forever.!): [Ask.NSA.for.the.DATA.back]
 selectWorld.deleteButton=:(Delete):
 selectWorld.renameButton=:(Rename):
-selectWorld.renameTitle=:(Rename_World):)
+selectWorld.renameTitle=:(Rename.World):)
 selectWorld.conversion=:(Must.be.Converted):
 selectWorld.newWorld=:(New.World):
 selectWorld.newWorld.copyOf=:(Copy.of.%s):
@@ -67,12 +67,12 @@ gameMode.survival=:(Survival.Mode):
 gameMode.creative=:(Creative.Mode):
 gameMode.adventure=:(Adventure.Mode):
 gameMode.hardcore=:(Hardcore.Mode):
-gameMode.changed=:(Gamemode_Updated):
+gameMode.changed=:(Gamemode.Updated):
 
 selectWorld.gameMode=Game Mode:
 selectWorld.gameMode.survival=:(Survival):
 selectWorld.gameMode.survival.line1=Search for resources, crafting, gain
-selectWorld.gameMode.survival.line2=levels, health and hunger
+selectWorld.gameMode.survival.line2=levels, health and radiation
 selectWorld.gameMode.creative=:(Creative):
 selectWorld.gameMode.creative.line1=Unlimited resources, free flying and
 selectWorld.gameMode.creative.line2=destroy blocks instantly
@@ -82,7 +82,7 @@ selectWorld.gameMode.hardcore.line2=difficulty, and one life only
 selectWorld.gameMode.adventure=:(Adventure):
 selectWorld.gameMode.adventure.line1=Same as survival mode, but blocks can't
 selectWorld.gameMode.adventure.line2=be added or removed
-selectWorld.moreWorldOptions=:(More.World.Options...):
+selectWorld.moreWorldOptions=:(More.World.Options):
 selectWorld.mapFeatures=:(Generate.Structures):
 selectWorld.mapFeatures.info=Villages, dungeons etc
 selectWorld.mapType=World Type:
@@ -103,7 +103,7 @@ selectServer.select=:(Join.Server):
 selectServer.direct=:(Direct.Connect):
 selectServer.edit=:(Edit):
 selectServer.delete=:(Delete):
-selectServer.add=:(Add_Server):
+selectServer.add=:(Add.Server):
 selectServer.defaultName=:(Minecraft.Server):
 selectServer.deleteQuestion=Are you sure you want to remove this server?
 selectServer.deleteWarning=will be lost forever! (A long time!)
@@ -116,7 +116,7 @@ addServer.enterIp=:(Server.Address):
 addServer.add=:(Confirm.Changes):
 addServer.hideAddress=:(Hide.Address):
 lanServer.title=:(LAN.World):)
-lanServer.scanning=:(Scanning.for.LAN.Connections...):
+lanServer.scanning=:(Scanning.for.LAN.Connections):
 lanServer.start=:(Initiate.LAN.World):
 lanServer.otherPlayers=:(Settings.for.other.Players):
 mcoServer.title=:(Minecraft.Online.World):
@@ -130,9 +130,9 @@ multiplayer.ipinfo=Enter the IP of a server to connect to it:
 multiplayer.texturePrompt.line1=This server recommends the use of a custom texture pack.
 multiplayer.texturePrompt.line2=Would you like to download and install it automagically?
 
-multiplayer.downloadingTerrain=Downloading terrain
+multiplayer.downloadingTerrain=:{Downloading.terrain}:
 
-multiplayer.stopSleeping=Leave Bed
+multiplayer.stopSleeping=[Get Up]
 
 chat.link.confirm=Are you sure you want to open the following website?
 chat.link.confirmTrusted=Do you want to open this link or copy it to your clipboard?
@@ -140,17 +140,17 @@ chat.link.warning=Never open links from people that you don't trust!
 chat.link.open=Open in browser
 chat.copy=Copy to Clipboard
 
-menu.playdemo=Play Demo World
-menu.resetdemo=Reset Demo World
-demo.day.1=This demo will last five game days, do your best!
-demo.day.2=Day Two
-demo.day.3=Day Three
-demo.day.4=Day Four
-demo.day.5=This is your last day!
-demo.day.warning=Your time is almost up!
-demo.day.6=You have passed your fifth day, use F2 to save a screenshot of your creation
-demo.reminder=The demo time has expired, buy the game to continue or start a new world!
-demo.remainingTime=Remaining time: %s
+menu.playdemo=:(Play.Demo.World)
+menu.resetdemo=(Reset.Demo.World)
+demo.day.1=[This demo will last five game days, do your best!]
+demo.day.2=[Day Two]
+demo.day.3=[Day Three]
+demo.day.4=[Day Four]
+demo.day.5=[This is your last day!]
+demo.day.warning=[Your time is almost up!]
+demo.day.6=[You have passed your fifth day, use F2 to save a screenshot of your creation]
+demo.reminder=[The demo time has expired, buy the game to continue or start a new world!]
+demo.remainingTime=:(Time.Remaining: %s):
 demo.demoExpired=Demo time's up!
 demo.help.movement=Use %1$s, %2$s, %3$s, %4$s and the mouse to move around
 demo.help.movementShort=Move by pressing %1$s, %2$s, %3$s, %4$s
@@ -162,8 +162,8 @@ demo.help.fullWrapped=This demo will last 5 ingame days (about 1 hour and 40 min
 demo.help.buy=Purchase Now!
 demo.help.later=Continue Playing!
 
-connect.connecting=Connecting to the server...
-connect.authorizing=Logging in...
+connect.connecting=Connecting to the server.
+connect.authorizing=Logging in.
 connect.failed=Failed to connect to the server
 
 disconnect.genericReason=%s
@@ -183,12 +183,12 @@ options.off=OFF
 options.on=ON
 options.visible=Shown
 options.hidden=Hidden
-options.title=:(Settings...):
+options.title=:(Settings):
 options.controls=:(Controls):
-options.video=:(Video.Settings...):
+options.video=:(Video.Settings):
 options.language=:(Language):
 options.languageWarning=Languages.may.not.be.100%.Accurate
-options.videoTitle=:(Video.Settings...):
+options.videoTitle=:(Video.Settings):
 options.music=:(Music)
 options.sound=:(Sound)
 options.invertMouse=:(Invert.Mouse)
@@ -235,8 +235,8 @@ options.particles=:(Particles)
 options.particles.all=:(All):
 options.particles.decreased=:(Decreased):
 options.particles.minimal=:(Minimal):
-options.multiplayer.title=:(Multiplayer_Settings...):
-options.chat.title=:(Chat_Settings...):
+options.multiplayer.title=:(Multiplayer.Settings):
+options.chat.title=:(Chat.Settings):
 options.chat.visibility=:(Chat)
 options.chat.visibility.full=:(Shown):
 options.chat.visibility.system=:(Console.Commands.Only):
@@ -252,7 +252,7 @@ options.chat.height.unfocused=:(Unfocused.Height)
 options.showCape=:(Show.Cape)
 options.serverTextures=:(Server.Textures)
 options.snooper=:(Allow.Snooper):
-options.snooper.view=:(Snooper_Settings...):
+options.snooper.view=:(Snooper.Settings):
 options.snooper.title=:(Machine.Specs.Collection):
 options.snooper.desc=We want to collect information about your machine to help improve Minecraft by knowing what we can support and where the biggest problems are. All of this information is completely anonymous and viewable below. We promise we won't do anything bad with this data, but if you want to opt out then feel free to toggle it off!
 options.texture.pack=:(Texture.Packs):
@@ -295,6 +295,96 @@ book.editTitle=Enter Book Title:
 book.finalizeButton=Sign and Close
 book.finalizeWarning=Note! When you sign the book, it will no longer be editable.
 
+
+
+
+lingering_potion.effect.empty=Lingering Uncraftable Potion
+
+
+lingering_potion.effect.water=Lingering Water Bottle
+
+lingering_potion.effect.mundane=Mundane Lingering Potion
+
+lingering_potion.effect.thick=Thick Lingering Potion
+
+lingering_potion.effect.awkward=Awkward Lingering Potion
+
+lingering_potion.effect.night_vision=Lingering Potion of Night Vision
+
+lingering_potion.effect.invisibility=Lingering Potion of Invisibility
+
+lingering_potion.effect.leaping=Lingering Potion of Leaping
+
+lingering_potion.effect.fire_resistance=Lingering Potion of Fire Resistance
+
+lingering_potion.effect.swiftness=Lingering Potion of Swiftness
+
+lingering_potion.effect.slowness=Lingering Potion of Slowness
+lingering_potion.effect.water_breathing=Lingering Potion of Water Breathing
+
+lingering_potion.effect.healing=Lingering Potion of Healing
+
+lingering_potion.effect.harming=Lingering Potion of Harming
+
+lingering_potion.effect.poison=Lingering Potion of Poison
+
+lingering_potion.effect.regeneration=Lingering Potion of Regeneration
+
+lingering_potion.effect.strength=Lingering Potion of Strength
+
+lingering_potion.effect.weakness=Lingering Potion of Weakness
+
+lingering_potion.effect.levitation=Lingering Potion of Levitation
+
+lingering_potion.effect.luck=Lingering Potion of Luck
+
+p
+
+item.dragon_breath.name=Reality Altering Goo
+tipped_arrow.effect.empty=Tipped Arrow
+
+tipped_arrow.effect.water=Tipped Arrow
+
+tipped_arrow.effect.mundane=Tipped Arrow
+
+tipped_arrow.effect.thick=Tipped Arrow
+
+tipped_arrow.effect.awkward=Tipped Arrow
+
+tipped_arrow.effect.night_vision=Arrow of Night Vision
+
+tipped_arrow.effect.invisibility=Arrow of Invisibility
+
+tipped_arrow.effect.leaping=Arrow of Leaping
+
+tipped_arrow.effect.fire_resistance=Arrow of Fire Resistance
+
+tipped_arrow.effect.swiftness=Arrow of Swiftness
+
+tipped_arrow.effect.slowness=Arrow of Slowness
+
+tipped_arrow.effect.water=Arrow of Splashing
+
+tipped_arrow.effect.water_breathing=Arrow of Water Breathing
+
+tipped_arrow.effect.healing=Arrow of Healing
+
+tipped_arrow.effect.harming=Arrow of Harming
+
+tipped_arrow.effect.poison=Arrow of Poison
+
+tipped_arrow.effect.regeneration=Arrow of Regeneration
+
+tipped_arrow.effect.strength=Arrow of Strength
+
+tipped_arrow.effect.weakness=Arrow of Weakness
+
+tipped_arrow.effect.levitation=Arrow of Levitation
+
+tipped_arrow.effect.luck=Arrow of Luck
+
+item.tipped_arrow.name=Embued Arrow
+item.spectral_arrow.name=Tracker Arrow
 item.beetroot_seeds.name=BEE+ Extractor
 item.beetroot_soup.name= Pill soup
 item.chorusFruit.name=Condensed chaos pod
@@ -303,12 +393,12 @@ tile.chorusFlower.name=C.H.R.U.-5
 tile.chorusPlant.name=Condensed chaos trail
 tile.beetroots.name=BEE+
 item.beetroot.name=BEE+ pills
-tile.stone.andesite.name=damaged ventilation duct
-tile.stone.andesiteSmooth.name=hidden ventilation duct
-tile.stone.diorite.name=damaged cable bundle block
-tile.stone.dioriteSmooth.name=sealed cable bundle block
-tile.stone.granite.name=flaky rebar concrete block
-tile.stone.graniteSmooth.name=uncovered rebar concrete block
+tile.stone.andesite.name=Damaged Ventilation Duct
+tile.stone.andesiteSmooth.name=Hidden Ventilation Duct
+tile.stone.diorite.name=Damaged Cable Bundle Block
+tile.stone.dioriteSmooth.name=Sealed Cable bundle block
+tile.stone.granite.name=Flaky Rebar block
+tile.stone.graniteSmooth.name=Rebar block
 tile.wood.acacia.name=Layered metal block
 tile.sapling.acacia.name= Hi-radar In The Box
 tile.stairsWoodAcacia.name=layerd metal steps
@@ -374,7 +464,9 @@ entity.Rabbit.name=Cyborg rabbit
 item.rabbitFoot.name=Cyborg jump amplificator
 
 
+
 tile.stone.name=Metal Plating
+tile.stone.stone.name=Metal Plating
 tile.hayBlock.name=Water Crate
 tile.grass.name=Dead Grass Block
 tile.dirt.name=Dirt
@@ -548,7 +640,7 @@ tile.cake.name=First Aid Kit
 tile.bed.name=O.I. Cot
 tile.bed.occupied=[Occupied]
 tile.bed.noSleep=[I'm not tired right now]
-tile.bed.notSafe=[I think there are enemies nearby...]
+tile.bed.notSafe=[I think there are enemies nearby.]
 tile.bed.notValid=[I have to find my way home!]
 tile.lockedchest.name=Locked Crate
 tile.trapdoor.name=Metal Hatch
@@ -594,8 +686,8 @@ tile.tripWire.name=Tripwire
 tile.tripWireSource.name=Tripwire Hook
 tile.commandBlock.name=Command Block
 tile.beacon.name=Beacon
-tile.beacon.primary=:(Power_Primary):
-tile.beacon.secondary=:(Power_Secondary):
+tile.beacon.primary=:(Power.Primary):
+tile.beacon.secondary=:(Power.Secondary):
 tile.cobbleWall.normal.name=Scrap Metal Wall
 tile.cobbleWall.mossy.name=Mossy Scrap Metal Wall
 tile.carrots.name=Jarred Carrots
@@ -935,11 +1027,11 @@ death.attack.fall=%1$s hit the ground too hard
 death.attack.outOfWorld=%1$s fell out of the world
 
 deathScreen.respawn=:(Respawn):
-deathScreen.deleteWorld=:(Delete_World):
+deathScreen.deleteWorld=:(Delete.World):
 deathScreen.titleScreen=:(Title.Screen):
 deathScreen.score=:(Score):
 deathScreen.title.hardcore=:(Game.Over):
-deathScreen.hardcoreInfo=:(Respawn.Denied_Hardcore):
+deathScreen.hardcoreInfo=:(Respawn.Denied.Hardcore):
 deathScreen.title=:(You.Died):)
 deathScreen.leaveServer=:(Leave.Server):
 
@@ -1140,7 +1232,7 @@ achievement.killCow=Stoneback Slayer
 achievement.killCow.desc=Harvest some Stoneback Leather
 achievement.flyPig=Flyout
 achievement.flyPig.desc=Fly a Giant Rat off a cliff
-achievement.snipeSkeleton=This Wasteland Ain't Big Enough...
+achievement.snipeSkeleton=This Wasteland Ain't Big Enough.
 achievement.snipeSkeleton.desc=Kill a bandit with a firearm from more than 50 meters
 achievement.diamonds=URANIUM!
 achievement.diamonds.desc=Acquire Uranium Power Rods with your mechanical tools
@@ -1206,29 +1298,29 @@ commands.banlist.players=There are %d total banned players:
 commands.banlist.usage=/banlist [ips|players]
 commands.kick.success=Kicked %s from the game
 commands.kick.success.reason=Kicked %s from the game: '%s'
-commands.kick.usage=/kick <player> [reason ...]
+commands.kick.usage=/kick <player> [reason .]
 commands.op.success=Opped %s
 commands.op.usage=/op <player>
 commands.deop.success=De-opped %s
 commands.deop.usage=/deop <player>
-commands.say.usage=/say <message ...>
+commands.say.usage=/say <message .>
 commands.ban.success=Banned player %s
-commands.ban.usage=/ban <name> [reason ...]
+commands.ban.usage=/ban <name> [reason .]
 commands.unban.success=Unbanned player %s
 commands.unban.usage=/pardon <name>
 commands.banip.invalid=You have entered an invalid IP address or a player that is not online
 commands.banip.success=Banned IP address %s
 commands.banip.success.players=Banned IP address %s belonging to %s
-commands.banip.usage=/ban-ip <address|name> [reason ...]
+commands.banip.usage=/ban-ip <address|name> [reason .]
 commands.unbanip.invalid=You have entered an invalid IP address
 commands.unbanip.success=Unbanned IP address %s
 commands.unbanip.usage=/pardon-ip <address>
 commands.save.enabled=Turned on world auto-saving
 commands.save.disabled=Turned off world auto-saving
-commands.save.start=Saving...
+commands.save.start=Saving.
 commands.save.success=Saved the world
 commands.save.failed=Saving failed: %s
-commands.save.flushStart=Flushing all saves...
+commands.save.flushStart=Flushing all saves.
 commands.save.flushEnd=Flushing completed
 commands.stop.start=Stopping the server
 commands.tp.success=Teleported %s to %s
@@ -1253,7 +1345,7 @@ commands.scoreboard.objectives.setdisplay.usage=/scoreboard objectives setdispla
 commands.scoreboard.objectives.setdisplay.invalidSlot=No such display slot '%s'
 commands.scoreboard.objectives.setdisplay.successCleared=Cleared objective display slot '%s'
 commands.scoreboard.objectives.setdisplay.successSet=Set the display objective in slot '%s' to '%s'
-commands.scoreboard.objectives.add.usage=/scoreboard objectives add <name> <criteriaType> [display name ...]
+commands.scoreboard.objectives.add.usage=/scoreboard objectives add <name> <criteriaType> [display name .]
 commands.scoreboard.objectives.add.wrongType=Invalid objective criteria type. Valid types are: %s
 commands.scoreboard.objectives.add.alreadyExists=An objective with the name '%s' already exists
 commands.scoreboard.objectives.add.tooLong=The name '%s' is too long for an objective, it can be at most %d characters long
@@ -1277,7 +1369,7 @@ commands.scoreboard.players.list.player.count=Showing %d tracked objective(s) fo
 commands.scoreboard.players.list.player.entry=- %2$s: %1$d (%3$s)
 commands.scoreboard.players.list.player.empty=Player %s has no scores recorded
 commands.scoreboard.teams.usage=/scoreboard teams <list|add|remove|empty|join|leave|option>
-commands.scoreboard.teams.add.usage=/scoreboard teams add <name> [display name ...]
+commands.scoreboard.teams.add.usage=/scoreboard teams add <name> [display name .]
 commands.scoreboard.teams.add.alreadyExists=A team with the name '%s' already exists
 commands.scoreboard.teams.add.tooLong=The name '%s' is too long for a team, it can be at most %d characters long
 commands.scoreboard.teams.add.displayTooLong=The display name '%s' is too long for a team, it can be at most %d characters long
@@ -1309,7 +1401,7 @@ commands.gamemode.success.other=Set %s's game mode to %s
 commands.gamemode.usage=/gamemode <mode> [player]
 commands.defaultgamemode.usage=/defaultgamemode <mode>
 commands.defaultgamemode.success=The world's default game mode is now %s
-commands.me.usage=/me <action ...>
+commands.me.usage=/me <action .>
 commands.help.header=--- Showing help page %d of %d (/help <page>) ---
 commands.help.footer=Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
 commands.help.usage=/help [page|command name]
@@ -1319,7 +1411,7 @@ commands.debug.start=Started debug profiling
 commands.debug.stop=Stopped debug profiling after %.2f seconds (%d ticks)
 commands.debug.notStarted=Can't stop profiling when we haven't started yet!
 commands.debug.usage=/debug <start|stop>
-commands.message.usage=/tell <player> <private message ...>
+commands.message.usage=/tell <player> <private message .>
 commands.message.sameTarget=You can't send a private message to yourself!
 commands.message.display.outgoing=You whisper to %s: %s
 commands.message.display.incoming=%s whispers to you: %s
@@ -1387,7 +1479,7 @@ mco.configure.world.buttons.invite=Invite
 mco.configure.world.buttons.uninvite=Uninvite
 mco.configure.world.buttons.subscription=Subscription
 mco.configure.world.buttons.save=Save
-mco.configure.world.buttons.settings=Settings...
+mco.configure.world.buttons.settings=Settings.
 mco.configure.world.invite.profile.name=Name
 mco.configure.world.uninvite.question=Are you sure that you want to uninvite
 
@@ -1400,18 +1492,18 @@ mco.configure.world.subscription.extend=Extend
 
 mco.create.world.location.title=Locations
 mco.create.world.location.warning=You may not get the exact location you select
-mco.create.world.wait=Creating the world...
+mco.create.world.wait=Creating the world.
 
 mco.reset.world.title=Reset World
 mco.reset.world.warning=This will permanently delete your world!
 mco.reset.world.seed=World Seed (Optional)
-mco.reset.world.resetting.screen.title=Resetting World...
+mco.reset.world.resetting.screen.title=Resetting World.
 
 mco.configure.world.close.question.line1=Your world will become unavailable.
 mco.configure.world.close.question.line2=Are you sure you want to do that?
 
-mco.connect.connecting=Connecting to the online server...
-mco.connect.authorizing=Logging in...
+mco.connect.connecting=Connecting to the online server.
+mco.connect.authorizing=Logging in.
 mco.connect.failed=Failed to connect to the online server
 
 mco.create.world=Create
