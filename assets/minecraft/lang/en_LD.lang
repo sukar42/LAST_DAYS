@@ -1144,8 +1144,8 @@ entity.villager.weapon=Weapon Trader
 entity.villager.tool=Equipment Trader
 entity.villager.butcher=Butcher
 entity.villager.leather=Stoneback Crafter
-entity.villager.nitwit=TODO
-entity.villager.cartographer=TODO
+entity.villager.nitwit=Civilian
+entity.villager.cartographer=Satelite Mapper
 
 
 entity.pig.name=Giant Rat
