@@ -822,6 +822,10 @@ tile.prismarine.bricks.name=SUBmerge Wall V2
 tile.prismarine.dark.name=Algae Covered SUBmerge Wall
 tile.seaLantern.name=SUBmerge Lamp
 
+
+item.shulkerShell.name=TODO
+item.end_crystal.name=TODO
+
 item.nameTag.name=Calculator
 item.leash.name=Leash
 item.shovelIron.name=Folding Spade
@@ -1147,6 +1151,7 @@ entity.villager.leather=Stoneback Crafter
 entity.villager.nitwit=Civilian
 entity.villager.cartographer=Satelite Mapper
 
+entity.shulker.name=TODO
 
 entity.pig.name=Giant Rat
 entity.sheep.name=AWR
