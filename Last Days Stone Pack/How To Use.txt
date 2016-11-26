@@ -1,0 +1,12 @@
+Put This Ontop Of The Resourcepack You Want These Texture To Display Ontop Of
+
+
+Example:
+
+
+
+3.Last Days Stone Pack
+
+2.Last Days (Or Whatever Pack You Want To Use With This)
+
+1.Default 

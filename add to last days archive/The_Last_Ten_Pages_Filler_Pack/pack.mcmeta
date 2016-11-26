@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": "A custom Last Days 32x32 pack"
+  },
+   "language":{
+      "en_OL":{
+         "name":"The_Outlands",
+         "region":"OL",
+         "bidirectional":false
+      }
+   }
+}
