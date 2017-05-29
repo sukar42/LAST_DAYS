@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<h1>502 Bad Gateway</h1>
+<p>The proxy server received an invalid response from an upstream server. Sorry for the inconvenience.<br/>
+Please report this message and include the following information to us.<br/>
+Thank you very much!</p>
+<table>
+<tr>
+<td>URL:</td>
+<td>https://web.archive.org/web/20130926183020im_/http://minecraftcustomizer.net:80/textures/gunpowder/5f47fbbb7b439a00ba38abb9898a9db4ae38ae71.png</td>
+</tr>
+<tr>
+<td>Server:</td>
+<td>wwwb-front3.us.archive.org</td>
+</tr>
+<tr>
+<td>Date:</td>
+<td>2017/05/29 16:58:35</td>
+</tr>
+</table>
+<hr/>Powered by Tengine/2.1.0</body>
+</html>

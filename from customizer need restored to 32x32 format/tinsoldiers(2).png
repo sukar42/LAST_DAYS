@@ -1,0 +1,637 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="EmulateIE7"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>ImageShack&#174; - Online Photo and Video Hosting</title>
+<meta name="copyright" content="Copyright 2010 ImageShack"/>
+<meta name="google-site-verification" content="gFE6jG6VX-EGA3a-RV5ICuiGS5o3Xxnec4cgcmy8WPM" />
+
+
+<meta name="medium" content="image"/>
+<meta name="title" content="tinsoldiers.png" />
+<meta name="description" content="ImageShack offers image hosting, free photo sharing and video sharing. Upload your photos, host your videos, and share them with friends and family." />
+<meta name="summary" content="Image with tinsoldiers.png" />
+<meta name="revisit-after" content="1 days">
+<meta name="keywords" content="ImageShack, share photos, pictures, free image hosting, free video hosting, image hosting, video hosting, photo image hosting site, video hosting site"/>
+<meta name="robots" content="index,follow">
+<meta property="og:title" content="http://imageshack.us/photo/my-images/834/tinsoldiers.png/" />
+<meta property="og:image" content="http://imageshack.us/a/img834/4153/tinsoldiers.png" />
+<meta property="fb:admins" content="213637" />
+<meta property="og:type" content="activity" />
+<meta property="og:site_name" content="ImageShack" /> 
+<meta property="og:url" content="http://imageshack.us/photo/my-images/834/tinsoldiers.png/" />
+<meta property="fb:app_id" content="124304810915979" />
+<link rel="image_src" href="http://imageshack.us/a/img834/4153/tinsoldiers.png" />
+<link rel="target_url" href="http://imageshack.us/photo/my-images/834/tinsoldiers.png//"/>
+
+
+<link href="/css/blue_round.css?v=4" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" type="text/css" href="/css/jNotify.jquery.css" media="screen" />
+
+<link rel="stylesheet" type="text/css" href="/locale/en/locale.css"/>
+<link rel="stylesheet" type="text/css" href="/css/landing_page.css?v=2"/>
+
+
+
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+    GS_googleAddAdSenseService("ca-pub-7137941865592088");
+    GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+
+                GA_googleAddAttr("category", "moderated");
+    
+    // Quantcast Segment API 
+    function qc_results(result) {
+      for (var i=0; i < result.segments.length; i++) {
+        GA_googleAddAttr('qctargeting', result.segments[i].id); 
+      }
+    }
+   
+            GA_googleAddSlot("ca-pub-7137941865592088", "Imageshack_Landing_Pops");
+     
+    
+    
+</script>
+
+<script type="text/javascript">
+    GA_googleFetchAds();
+</script>
+<!-- END OF TAG FOR head SECTION -->
+
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-65DrxcUXjcWq6&callback=qc_results"></script>
+
+
+<script type ="text/javascript">
+    var login_error = "";
+</script>
+
+
+</head>
+<body >
+
+<div id="fb-root"></div>
+<script>
+    // Additional JS functions here
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '124304810915979', // App ID
+            channelUrl : '//www.imageshack.us/channel.html', // Channel File
+            status     : true, // check login status
+            cookie     : true, // enable cookies to allow the server to access the session
+            xfbml      : true  // parse XFBML
+        });
+    };
+
+    // Load the SDK Asynchronously
+    (function(d){
+        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+        if (d.getElementById(id)) {return;}
+            js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        ref.parentNode.insertBefore(js, ref);
+    }(document));
+</script>
+<!-- Start Google Analytics -->
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+    var pageTracker = _gat._getTracker("UA-6232220-1");
+    pageTracker._setDomainName(".imageshack.us");
+    pageTracker._setSampleRate("80");
+    _gaq.push(['b._setAccount', 'UA-6232220-1']);
+    _gaq.push(['b._setDomainName', '.imageshack.us']);
+
+
+    pageTracker._setCustomVar(1, 'page_type', 'landingpage', 3);
+        
+
+
+    pageTracker._trackEvent('page-speed', 'landingpage', '0.083');
+
+    } catch(err) {}
+
+// trackPageview
+    pageTracker._trackPageview("/landingpage");
+            pageTracker._trackEvent('moderation_tracking', 'moderated_page_view');
+        
+    if( navigator.userAgent.indexOf("iPad") == -1 && 
+        (document.referrer.indexOf('google.com') != -1 || 
+         document.referrer.indexOf('bing.com') != -1 || 
+         document.referrer.indexOf('linkbucks.com') != -1) ) { // break search engine display
+        var param = (document.referrer.indexOf('linkbucks.com') != -1) ? 'sr=0' : 'sr=1';
+        window.top.location.href = ((location.href.indexOf('?') != -1) ? location.href + '&' + param : location.href + param);
+    }
+
+    
+</script>
+<!-- End Google Analytics -->
+
+
+<div class="layout">
+    <div class="indent">
+    <div id="top">       
+         <div class="top_form right">
+                        <div id="signOut" class="signOut">
+                <a href="http://register.imageshack.us/" onClick="pageTracker._trackEvent('new-header-click','header-register');">Sign Up</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="javascript:;" id="btnlogin" onClick="pageTracker._trackEvent('new-header-click','header-signin');">Login</a>
+
+                 <span id="login-top">
+                     <form action="/auth.php" method="post" style="display:inline!important;">
+                        <input type='hidden' name='format' value="redirect">
+                        <input type='text' name='username' id='username' placeholder="Username/Email">&nbsp;
+                        <input type='password' name='password' id='password' placeholder="password">
+                        <input type="submit" name="login" id="login" value="login" onClick="pageTracker._trackEvent('new-header-click','login-ok');"/>
+                        <br>
+                         <div class="login-options">
+                             <label id="stay_logged_in_label" for="stay_logged_in">Keep me logged in</label>
+                             <input type="checkbox" id="stay_logged_in" name="stay_logged_in" checked="checked" />
+                             <a id="forgot-password" href="/registration/passwordrecovery.php">Forgot Password?</a>
+                         </div>
+                     </form>
+                 </span>
+                 <a id="global-facebook-login"></a> 
+            </div>
+            <!-- Search -->            
+            <div class="search-box right" style="cursor:nohand; background:transparent;">
+                <form id="searchform" >
+                  <div class="left">
+                                        <input name="q" id="searchfield" style="height:18px; padding-top:3px; font-family:Verdana,Arial,sans-serif; font-size:12px;" 
+                     
+                      onfocus="focussearch(this, 'Search'); pageTracker._trackEvent('new-header-click','header-search');" value="Search"
+                     />&nbsp;&nbsp;
+                  </div>
+                  <div class="left" style="margin-top: 4px">
+                    <a id="searchbutton" href="#" style="margin:0; padding:0; border:none;" onClick="pageTracker._trackEvent('new-header-click','header-search-btn');">
+                    <img src="http://imageshack.us/images/blue/arrow-right-round.gif" width="21px" height="20px" /></a>
+                  </div>
+                 </form>
+            </div>     
+         </div>
+         <div class="logo"><h1><a href="http://imageshack.us/" onClick="pageTracker._trackEvent('new-header-click','header-logo');">ImageShack</a></h1></div>      
+
+        <div class="facebook-like"><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FImageShack%2F133510786684471&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:21px;" allowTransparency="true"></iframe></div>
+
+         <div class="clear"></div>         
+     </div>
+<!-- Main Menu  -->
+<div id="menu">
+    <ul class="sf-menu">
+        <li class=""><a class="topanchor" href="http://imageshack.us/">Media Upload</a></li>                                                             
+        <!--<li style="width:329px; cursor:nohand; background:transparent;">
+        </li>-->        
+        <li id="menu_signupgrade" style="width:251px;"
+            class="">
+                    <a class="topanchor" href="http://register.imageshack.us/" onClick="pageTracker._trackEvent('new-header-click','header-menu-register');">Sign Up</a>
+                  </li>                                                             
+        <li class=""><a class="topanchor" href="http://imageshack.us/p/features/" onClick="pageTracker._trackEvent('new-header-click','header-menu-tools');">Tools</a></li>                                                             
+        <li id="menu_myimages" class="">
+                              <a class="topanchor" href="http://imageshack.us/v_images.php" onClick="pageTracker._trackEvent('new-header-click','header-menu-myimages');"
+                style="border-right:none" 
+                 
+                >My Images</a>
+                             
+                     </li>                                                          
+    </ul>
+</div>      
+
+<div class="clear"></div>
+<script  type="text/javascript">
+    var is_owner = "";
+    var is_owned = "1";
+    var meta_gal = "";
+</script>
+
+<div id="ad_top" style="float:left;width:100%;text-align:center;margin-bottom:10px;">
+  
+  <script type="text/javascript">
+  <!--
+   if(window.location.hash !=''){
+    window.location ='http://'+ window.location.host +  window.location.pathname;
+   }
+  //--></script>
+  
+      <iframe id="is_landing_top" rel="Imageshack_Landing_Top" marginwidth="0" marginheight="0" cellspacing="0" cellpadding="0" src="" width="728px" height="90px" style="display:; width:728px; height:90px; margin:10px auto" scrolling="no" frameborder="no"></iframe>
+  </div>
+
+<div class="clear"></div>
+
+<div class="column-left">
+
+    <!-- Actions Info Div -->
+    <div class="action-div">
+        <div id="action-share">
+        </div>
+    </div>
+
+    <!-- Breadcrumbs  -->
+    
+        <!-- Main Image  -->
+        <div id="main_image_frame" style="width:670px;min-height:510px;" align="center">
+                            <img id="main_image" onClick="pageTracker._trackEvent('fullimg-lp','fullimg-zoom-image-click');" class="border" src="http://imageshack.us/scaled/landing/834/tinsoldiers.png" alt="tinsoldiers.png" title="" style="width:px;height:px;cursor:pointer;max-height:640px;max-width:640px;"/>
+                    </div>
+
+    <!-- Tags -->
+    
+    <!-- tool bar-->
+    <div style="float:left;width:660px;margin:5px 5px;">
+    </div>
+    <!-- end tool bar-->
+
+	<!-- related images -->
+	<div id="related-images" width="671">
+    	<table>
+        	<tr>
+            	<td id="rel-1"></td>
+                <td id="rel-2"></td>
+                <td id="rel-3"></td>
+                <td id="rel-4"></td>
+                <td id="rel-5"></td>
+                <td id="rel-6"></td>
+                <td id="rel-7"></td>
+                <td id="rel-8"></td>
+                <td id="rel-9"></td>
+                <td id="rel-10"></td>
+            </tr>
+        </table>
+    </div>
+
+	<!-- end related images -->
+    <!-- info bar-->
+    <div>
+    <!-- info side-->
+      <div class="new-generalinfo new-info" style="border: 1px #cccccc solid;">
+<div class="new-generalinfo-view" style="float: left;">Views: <span style="font-weight:normal">36,929</span></div>
+          <div class="new-generalinfo-view" style="float: right;">                <div class="report-abuse"><a onmouseover="document.getElementById('red_flag').src='http://imageshack.us/images/red_flag.png';"
+                       onmouseout="document.getElementById('red_flag').src='http://imageshack.us/images/grey_flag.png';"
+                       class="last"  style="margin-bottom: -1px;"
+                           onclick="pageTracker._trackEvent('new-blue-click','abuse_icon_click');"
+                           href="#" id="abusebox-btn" ><img id="red_flag"  src="http://imageshack.us/images/grey_flag.png" alt="Report Abuse" style="margin-bottom:-1px" /> Report Abuse</a>
+                    </div>
+          </div>
+          <div style="clear:both;"></div>
+                        <div class="new-generalinfo-view">
+                <div class="download-block">
+                    <a href="http://imageshack.us/download/834/tinsoldiers.png"><div class="btn" onClick="pageTracker._trackEvent('new-LP-click', 'download_button');"><div id="bg"><div id="text">Download</div></div><div id="right"></div></div></a>
+                </div>
+            </div>
+            
+      </div>
+    <!-- end info side-->
+    <!-- Share section-->
+      <div class="new-info" style="float:right;height:76px;width:332px;background-color:#FFFFFF;border: 1px #cccccc solid; _overflow:hidden;">
+        <div style="margin-left:10px;margin-top:8px;color:#424242;width:100%;"><b>Share:</b>
+
+        <!-- Radium sharing widget -->
+        <div class="pw_widget pw_copypaste_true pw_size_32 pw_counter_false" style="margin-top:10px;">
+            <a class="pw_facebook"></a>
+            <a class="pw_twitter"></a>
+            <a class="pw_stumble_upon"></a>
+            <a class="pw_linkedin"></a>
+            <a class="pw_reddit"></a>
+            <a class="pw_tumblr"></a>
+            <a class="pw_digg"></a>
+        </div>
+        <script src="http://i.po.st/share/script/post-widget.js#publisherKey=yFrog" type="text/javascript" charset="utf-8"></script>
+
+        </div>
+      </div>
+    <!-- end share -->
+
+    </div>
+    <!-- end info bar-->
+
+
+    <div class="clear"></div>
+
+        <!--  Facebook comments -->
+        <div style="padding-left:10px;padding-top:10px" id="fbcomments">
+          <input type="hidden" id="yfrogid" value="n6tinsoldiersp" />
+          <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+        </div>
+
+        </div>
+
+<div class="column-right">
+    <div id="ad-safe" style="">
+    <span style="font-size:12px;color:#777">This is an AdSafe page.</span>
+    <div style="position:relative; top:-6px; left:140px"><img width="166px" height="1px" src="http://imageshack.us/images/1px_grey.jpg"></div>
+  </div>
+      <!-- Navigation Images -->
+  <div class="image-info">
+
+        <div id="UserImageHeader" class="next_prev">
+          <h2>  <a onClick="pageTracker._trackEvent('new-blue-click','user_image_stream_top');" href="http://imageshack.us/user/halphprice" target="_blank">halphprice's images</a></h2>
+        </div>
+        <div id="UserImage" class="image-info-view" >
+        <div class="navigation" style="background-color:none;height:130px;width:90%;">
+
+                        <div class="nav-link left" id="prev"  style="text-align:center; margin-left:-15px;" >
+                <div onClick="pageTracker._trackEvent('new-blue-click','previous_pic');"   class="border small" style="background:none;text-align:center;padding:0px 5px 5px;text-align:center; ">
+                </div>
+                <a onClick="pageTracker._trackEvent('new-blue-click','previous_link');"
+                href="http://imageshack.us/photo/my-images/809/aeth.png/"
+                style="padding:10px 0 0 30px; margin-bottom:0px;"> &lt;&lt; Prev</a>
+            </div>
+                                    <div class="nav-link right" id="next"  style="text-align:center; margin-right:5px;">
+                <div onClick="pageTracker._trackEvent('new-blue-click','next_pic');" class="border small" style="background:none; padding:0px 5px 5px; text-align:center; margin-right:10px;">
+                </div>
+                <a onClick="pageTracker._trackEvent('new-blue-click','next_link');"
+                href="http://imageshack.us/photo/my-images/4/dokubest.png/"
+                style="padding:10px 0 0 30px; margin-bottom:0px;">Next &gt;&gt;</a>
+            </div>
+            
+       </div>
+       </div>
+  </div>
+  <div class="clear"></div>
+  <div style="height:5px;"><img src="http://imageshack.us/images/1pix.gif" width="1px" height="1px" /></div> <!-- spaces -->
+  
+      <div id="ad1" align="center" style="margin-left:2px;">
+        <!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT Imageshack_Landing  -->
+                                <iframe id="is_landing" rel="Imageshack_Landing" marginwidth="0" marginheight="0" cellspacing="0" cellpadding="0" src="" width="300px" height="250px" style="display:none; width:300px; height:250px;" scrolling="no" frameborder="no"></iframe>
+                          <!-- END OF TAG FOR SLOT Imageshack_Landing  -->
+      </div>
+      <div style="height:7px;"></div> <!-- spaces -->
+            <div style="height:7px;"></div> <!-- spaces -->
+      
+<!-- Images Info - Accordion -->
+       <div id="image-info-links" class="image-info">
+
+            <div id="ImageCodesHeader" class="image-info-tab non-active" state="1">
+                <h2>Links to share this image <a href="#" class="tt" style="cursor:help"><img src="/images/blue/help.gif" width="17" height="16" style="vertical-align:middle"/><span class="left-tooltip"><span class="left-top"></span><span class="middle">ImageShack generates automatic image links and code for your images.  Using this code, you can link to your files in a number of ways.  You can embed your files into web pages or show them to friends via email and Instant messenger.<br /><br />In order to use these links or codes, click anywhere inside the code-box, then press CTRL+C to copy the linking code. The linking code now exists inside your computer's "clipboard" and can be pasted anywhere.  Now, you can open your target location (such as a messenger window or a message board post box) and paste your link or code there.<br /><br />"Link" is the Imageshack landing_page for images and is great for sharing via Email and IM."Direct" is the actual location of the image on ImageShack's servers."Short" (yfrog only for now...) is a link shortened via the bit.ly URL redirection service.</span><span class="bottom"></span></span></a>
+</h2>
+            </div>
+            <div id="ImageCodes" class="image-info-view"  style="display:none">
+                <div class="codes">
+                    <div>
+                        <label>Link</label><input onClick="pageTracker._trackEvent('new-blue-click','short_click');"  readonly="readonly" class="readonly" value="http://imageshack.us/photo/my-images/834/tinsoldiers.png/"/>
+                    </div>
+                    <div>
+                        <label>Direct</label><textarea wrap=off onClick="pageTracker._trackEvent('new-blue-click','direct_link_click');" readonly="readonly" class="readonly multilinebox">http://imageshack.us/a/img834/4153/tinsoldiers.png</textarea>&nbsp;<a href="http://imageshack.us/a/img834/4153/tinsoldiers.png" target="_blank"><img src="http://imageshack.us/images/blue/external.png" style="margin:3px 5px 0" alt="Direct"/></a>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+
+
+            <div id="LinkCodesHeader" class="image-info-tab non-active" state="2">
+                <h2>Embed this image <a href="#" class="tt" style="cursor:help"><img src="/images/blue/help.gif" width="17" height="16" style="vertical-align:middle"/><span class="left-tooltip"><span class="left-top"></span><span class="middle">"Forum" allows you to hotlink your original uploaded image on BBcode-compatible message boards and forums.<br />"Alt Forum" If your image does not show up after submitting your post, please use "Alt Forum". This occurs because some message boards use different BBcode and are not compatible.<br />"HTML" allows you to hotlink your original uploaded image on HTML-compatible websites, e.g., livejournal, blogger, etc.</span><span class="bottom"></span></span></a>
+</h2>
+            </div>
+            <div id="LinkCodes" class="image-info-view"  style="display:none">
+                <div class="codes">
+                                        <div>
+                        <label>Forum</label>
+                        <textarea wrap=off onClick="pageTracker._trackEvent('new-blue-click','forum_link_click');" readonly="readonly" class="readonly multilinebox">[URL=http://imageshack.us/photo/my-images/834/tinsoldiers.png/][IMG]http://imageshack.us/a/img834/4153/tinsoldiers.png[/IMG][/URL]
+
+Uploaded with [URL=http://imageshack.us]ImageShack.us[/URL]</textarea>
+                    </div>
+                    <div>
+                        <label>Alt Forum</label>
+                        <textarea wrap=off onClick="pageTracker._trackEvent('new-blue-click','alt_forum_link_click');" readonly="readonly" class="readonly multilinebox">[URL=http://imageshack.us/photo/my-images/834/tinsoldiers.png/][IMG=http://imageshack.us/a/img834/4153/tinsoldiers.png][/IMG][/URL]
+
+Uploaded with [URL=http://imageshack.us]ImageShack.us[/URL]</textarea>
+                    </div>
+                    
+                    <div>
+                        <label>HTML</label>
+                        <textarea wrap=off onClick="pageTracker._trackEvent('new-blue-click','html_link_click');" readonly="readonly" class="readonly multilinebox">&lt;a target=&#039;_blank&#039; title=&#039;ImageShack - Image And Video Hosting&#039; href=&#039;http://imageshack.us/photo/my-images/834/tinsoldiers.png/&#039;&gt;&lt;img src=&#039;http://imageshack.us/a/img834/4153/tinsoldiers.png&#039; border=&#039;0&#039;/&gt;&lt;/a&gt;&lt;br&gt;Uploaded with &lt;a target=&#039;_blank&#039; href=&#039;http://imageshack.us&#039;&gt;ImageShack.us&lt;/a&gt;</textarea>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+
+                   </div>
+
+            <div id="ad2" align="center" style="margin:5px 0 0 2px;">
+        <!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT Imageshack_Landing  -->
+        <iframe id="is_landing_sidebottom" rel="Imageshack_Landing_SideBottom" marginwidth="0" marginheight="0" cellspacing="0" cellpadding="0" src="" width="300px" height="250px" style="display:none; width:300px; height:250px;" scrolling="no" frameborder="no"></iframe>
+        <!-- END OF TAG FOR SLOT Imageshack_Landing  -->
+      </div>
+            <div style="height:7px;"></div> <!-- spaces -->
+
+</div> <!-- end of div.column-right -->
+
+<div id="dialog-tags" title="Direct Link">
+    <p id="context-menu-text1">Enter a few tags to receive the direct link</p>
+    <br>
+    <p id="context-menu-text5">Split tags by commas</p>
+    <input type="text" id="context-menu-tags" class="context-menu-input">
+    <p id="context-menu-text4">Example: ford, 1969, blue car</p>
+</div>
+
+<div id="dialog-link" title="Direct Link">
+    <p id="context-menu-text2">Thank You</p>
+    <p id="context-menu-text3">The link has been copied to your clipboad</p>
+    <br>
+    <input id="context-menu-link" class="context-menu-input"  type="text" value="http://imageshack.us/a/img834/4153/tinsoldiers.png">
+</div>
+
+
+
+    <div class="clear"></div>
+   
+ <!-- Bottom Menu -->   
+     <div class="menu-bottom">
+         <div class="menu-header">      
+            <a href="http://blog.imageshack.com/about/" onClick="pageTracker._trackEvent('new-footer-click','footer-about');" title="About Us" class="menu-bottom-link">About</a>|
+            <a href="/p/advertising/" onClick="pageTracker._trackEvent('new-footer-click','footer-advertising');" title="Advertise on ImageShack" class="menu-bottom-link">Advertising</a>|
+            <a href="http://imageshack.us/content.php?page=email&q=customer" onClick="pageTracker._trackEvent('new-footer-click','footer-contact');" title="Report Lost or Missing Images" class="menu-bottom-link">Contact</a>|
+            <a href="http://imageshack.us/content.php?page=email&amp;q=abuse" onClick="pageTracker._trackEvent('new-footer-click','footer-reportabuse');" title="Report Abuse or Request Deletion" class="menu-bottom-link">Report Abuse</a>|
+            <a href="/p/developer/" onClick="pageTracker._trackEvent('new-footer-click','footer-api');" title="API" class="menu-bottom-link">API</a>|
+            <a href="/p/features/" onClick="pageTracker._trackEvent('new-footer-click','footer-tools');" title="Tools" class="menu-bottom-link">Tools</a>|
+            <a href="/p/rules/" onClick="pageTracker._trackEvent('new-footer-click','footer-tos');" title="ToS" class="menu-bottom-link">ToS</a>|
+            <a href="/p/privacy/" onClick="pageTracker._trackEvent('new-footer-click','footer-privacy');" title="Privacy" class="menu-bottom-link">Privacy</a>|
+            <a href="/sitemap/" title="Sitemap" onClick="pageTracker._trackEvent('new-footer-click','footer-sitemap');" class="menu-bottom-link">Sitemap</a>|
+            <a href="http://blog.imageshack.com" title="Blog" onClick="pageTracker._trackEvent('new-footer-click','footer-blog');" class="menu-bottom-link">Blog</a>|     
+            <a href="http://blog.yfrog.com/jobs/" onClick="pageTracker._trackEvent('new-footer-click','footer-jobs');" title="Jobs" class="menu-bottom-link">Jobs</a>|
+            <a href="http://kb.imageshack.us/is/article?22=faq" onClick="pageTracker._trackEvent('new-footer-click','footer-help');" title="Help" class="menu-bottom-link">Help</a>
+	             </div>    
+     </div>           
+     <div id="copyright">
+         &copy; 2003-2013 ImageShack Corp. All rights reserved.     </div>
+     
+
+                  <div align="center">
+        <form name="langForm" id="langForm" method="post" >
+            <select class="lang" id="language" name="language" onChange="pageTracker._trackEvent('new-header-click','lang-'+this.value);" onmouseover="showBottomAd(false)" onmouseout="showBottomAd(true)"> 
+              <option value="en" selected="selected">English</option>
+              <option value="de">Deutsch</option>
+              <option value="es">Español Ibérico</option>
+              <option value="es_MX">Español latinoamericano</option>
+              <option value="fr">Français</option>
+              <option value="it">Italiano</option>
+              <option value="pl">Polski</option>
+              <option value="pt">Português do Brasil</option>
+              <option value="tr">Türkçe</option>
+              <option value="ru">Русский</option>
+            </select> 
+        </form>
+      </div>
+           
+    </div> <!-- div.indent -->         
+</div>  <!-- div.layout -->
+
+<div id="login_dialog" title="Login" style="display:none">
+    Login with your Imageshack username or email:    <table cellpadding="0" cellpadding="0" border="0" style="width:100%">
+        <tr>
+            <td style="width:100px; text-align:right;">
+                &nbsp;
+            </td>
+            <td style="text-align:left;">
+                <div style="width:245px;">
+                    <div id="l_no_user_error" class="error" style="display:none; color:#D34209;font-weight:bold;"><i>Please enter your username or email address</i></div>
+                    <div id="l_no_pass_error" class="error" style="display:none; color:#D34209;font-weight:bold;"><i>Please enter your password</i></div>
+                    <div id="l_auth_failed_error" class="error" style="display:none; color:#D34209;font-weight:bold;"><i>Authentication failed. Please check username and password entered</i></div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:100px; text-align:right;">
+                Email:            </td>
+            <td style="text-align:left;">
+                <form name="login" id="login" action="blank.html" onsubmit="return false;">
+                <input id="l_login" style="font-style:italic;"/>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:100px; text-align:right;">
+                Password:            </td>
+            <td style="text-align:left;">
+                <input type="password" id="l_password"/>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:100px; text-align:right;">
+                &nbsp;
+            </td>
+            <td style="text-align:left;">
+                <input type="checkbox" id="stay_logged_in" checked="checked" /><label for="stay_logged_in" style="font-size: 8pt;">Remember me</label>
+                <input type="submit" id="okbtn_login" style="cursor:pointer; margin-top:5px; margin-left:15px;" value="OK" onClick="pageTracker._trackEvent('new-header-click','login-ok');"/>
+                </form>
+            </td>
+        </tr>
+    </table>
+
+    <!--<input type="button" id="okbtn_login" style="cursor:pointer; margin-top:5px;" value="OK" onClick="pageTracker._trackEvent('new-header-click','login-ok');"/>-->
+    <!--<input type="button" id="cancelbtn_login" value="Cancel" onClick="pageTracker._trackEvent('new-header-click','login-cancel');"/>-->
+    <div align="left">    
+       <a class="ser" href="http://my.imageshack.us/registration/passwordrecovery.php" onClick="pageTracker._trackEvent('new-header-click','login-forgot-password');" style="font-style:italic;font-size:8pt;">Forgot your password?</a>
+    </div>
+    <hr/>
+    <p style="font-size:8pt;text-align:left;">If you are already registered with ImageShack, but do not have a password, please log in using your registration link and click on &quot;Preferences&quot; to create your new password.</p>
+</div>
+<!-- Repleaf -->
+
+<script type='text/javascript' src='/scripts/jquery/jquery-1.8.2.min.js'></script>
+<script type="text/javascript" src="/scripts/jquery/jquery-ui-1.8.24.custom.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery/jNotify.jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/common/core.js?v=7"></script>
+
+<script type="text/javascript">
+    FacebookLogin.setAPIKey('5SQW7ZT1dec0922325c83383377e7e557d97fe7a');
+</script>
+
+
+<div id="ad" align="center" style="margin-left:2px;">
+  <!-- ca-pub-7137941865592088/Imageshack_Landing_Bottom -->
+  <iframe id="is_landing_bottom" marginwidth="0" marginheight="0" cellspacing="0" cellpadding="0" src="" width="728px" height="90px" rel="Imageshack_Landing_Bottom" style="display:none; width:728px; height:90px; margin:10px auto" scrolling="no" frameborder="no"></iframe>
+</div>
+
+<div style="display: block; opacity: 0;" id="image-controls">
+		<a id="rotate_right" title="Rotate Right" alt="Rotate Right" class="rotate-right" href="#">Right</a>
+		<a id="zoominbutton" title="Zoom" alt="Zoom" class="zoom" href="#">Zoom</a>
+		<a id="rotate_left" title="Rotate Left" alt="Rotate Left" class="rotate-left" href="#">Left</a>
+</div>
+
+<input type="hidden" id="org_fullimg_link" value="http://imageshack.us/photo/my-images/834/tinsoldiers.png/"/>
+<input type="hidden" id="direct-link" value="http://imageshack.us/a/img834/4153/tinsoldiers.png"/>
+<input type="hidden" id="in_ifs" value=""/>
+<input type="hidden" id="media_width" value=""/>
+<input type="hidden" id="media_height" value=""/>
+<input type="hidden" id="_from_search" value=""/>
+<input type="hidden" id="_from_newlp" value="1"/>
+<input type="hidden" id="_kwd" value="my-images"/>
+<input type="hidden" id="_server" value="834"/>
+<input type="hidden" id="_image" value="tinsoldiers.png"/>
+<input type="hidden" id="is_porn" value=""/>
+<input type="hidden" id="moderated" value="1"/>
+<script type="text/javascript">
+
+   pageTracker._trackPageview("/search/None/Landing_page");
+
+    pageTracker._trackEvent('ad-stats', 'ads-shown' );
+var LANG = 'en';
+var SERVER = '834';
+var IMAGE = 'tinsoldiers.png';
+var PREV_IMAGE = 'aeth.png';
+var PREV_TYPE = 'photo';
+var PREV_KWD = 'my-images';
+var PREV_SERVER = 809;
+var NEXT_IMAGE = 'dokubest.png';
+var NEXT_TYPE = 'photo';
+var NEXT_KWD = 'my-images';
+var NEXT_SERVER = 4;
+var SITE_NAME   = 'blue';
+
+var GEO = null;
+
+var CHECK_VIDEO = false;
+
+var GOOGLE_API_KEY = 'ABQIAAAAb4okmU6pZdrTn0X7lV3G7RRterEEbOrmoBhwISCGr9dC0WvkPxTTC2AunDwvdLh686P1woHbVx1iLA';
+
+var prev_list = new Array();
+var next_list = new Array();
+
+
+
+  <!-- ca-pub-7137941865592088/Imageshack_Landing_Pops -->
+  GA_googleFillSlot("Imageshack_Landing_Pops");
+
+// blur() made a problem in firefox so it should be removed.
+function openPopunder(u,n,v)
+{
+    var ppp=window.open(u,n,v);
+        ppp.blur();
+        window.focus();
+}
+
+</script>
+<script type="text/javascript" src="/scripts/jquery/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery/jquery.editinplace.js"></script>
+<script type="text/javascript" src="/scripts/jquery/jquery.rotate.1-1.js"></script>
+<script type="text/javascript" src="/scripts/landing_page/is_my.js?v=2"></script>
+<script type="text/javascript" src="/scripts/blue/related.js"></script>
+
+<!-- Skypath popup ad -->
+
+
+
+<input type="hidden" id="Quantcast_label" value="LPPage">
+
+<!-- Quantcast & comScore tags -->
+<script type="text/javascript" src="/scripts/common/is-comscore.js"></script>
+
+<!-- Start Quantcast tag -->
+<noscript>
+<a href="http://www.quantcast.com/p-65DrxcUXjcWq6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-65DrxcUXjcWq6.gif?labels=MyPageBlue" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+</body>
+</html>
