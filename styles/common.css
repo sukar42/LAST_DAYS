@@ -1,7 +1,11 @@
 /*	Page Content	*/
 html,body {
 	margin:0;
-	background-color:#000;
+	background-image:url("https://sukar42.github.io/LAST_DAYS/bg.jpg");
+        /*background-color: lightgray;*/
+        height: 700px;
+        width:100%;
+        background-size:cover;
 	color: #bbb;
 	font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
 	font-size: 1em;
