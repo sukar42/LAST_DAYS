@@ -1,6 +1,6 @@
 
 **IMPORTANT**
-Go [here](sukar42.github.io/LAST_DAYS) for up to date info!
+Go [here](http://sukar42.github.io/LAST_DAYS) for up to date info!
 
 
 
