@@ -137,3 +137,102 @@ strong,b {
 		content:"";
 	}
 }
+
+/*buttons*/
+
+.button_normal {
+background-image:url("https://sukar42.github.io/LAST_DAYS/bg.jpg");
+font-size:20px;
+color:LawnGreen;
+padding: 5px 3px;
+border: 2px solid #4CAF50;
+}
+
+.button2 {
+background-image:url("https://sukar42.github.io/LAST_DAYS/bg.jpg");
+font-size:20px;
+color:LawnGreen;
+width:10%;
+padding: 5px 0px;
+border: 2px solid #4CAF50;
+}
+
+.button1 {
+background-image:url("https://sukar42.github.io/LAST_DAYS/bg.jpg");
+font-size:20px;
+color:LawnGreen;
+width:30%;
+padding: 5px 0px;
+border: 2px solid #4CAF50;
+}
+
+.center {
+text-align:center
+}
+
+div.gallery {
+    border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+div.gallery {
+    width: 99%;
+    height: 200px;
+    text-align: center;
+    overflow: scroll;
+    border: none;
+}
+
+.centre1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.c1 {
+    text-align: center;
+}
